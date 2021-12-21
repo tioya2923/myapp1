@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "tutorial node.js & express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tioya2923/myapp.git"
+  },
+  "keywords": [
+    "myapp"
+  ],
+  "author": "tioya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tioya2923/myapp/issues"
+  },
+  "homepage": "https://github.com/tioya2923/myapp#readme"
+}
